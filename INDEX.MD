@@ -7,3 +7,4 @@
  
 ## DAY 2(09-05-2023) 
 ![alt bad](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-09%2012-08-54.png)
+![alt hii](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-11%2010-47-47.png)
