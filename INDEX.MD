@@ -7,4 +7,3 @@
  
 ## DAY 2(09-05-2023) 
 
-PROGRAM 1:-Tinkercad,blinking of led without switch
