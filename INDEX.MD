@@ -1,4 +1,4 @@
-[FIRSTDAY](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-09%2012-08-54.png)
+[FIRSTDAY](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-09%2012-08-54.png)https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-11%2013-58-53.png
 [SECONDAY](https://github.com/jebinjosep/bad/blob/main/bad)
 [THIRDDAY](https://www.tinkercad.com/things/2sYzoTlYzfy-led-blink/editel)
 
@@ -16,3 +16,4 @@
 > ARDUINO INTERFACTING
 - LED BLINKING USING ARDUINO USING CODE AND SIMULATION MADE
 ![alt smm](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-11%2013-58-43.png)
+![alt hii](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-11%2013-58-53.png)
