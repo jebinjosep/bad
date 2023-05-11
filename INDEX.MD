@@ -15,4 +15,4 @@
 ![alt hii](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-11%2010-47-47.png)
 > ARDUINO INTERFACTING
 - LED BLINKING USING ARDUINO USING CODE AND SIMULATION MADE
-![alt smm](
+![alt smm](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-11%2013-58-43.png)
