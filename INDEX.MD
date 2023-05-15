@@ -18,3 +18,6 @@
 ![alt smm](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-11%2013-58-43.png)
 ![alt hii](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-11%2013-58-53.png)
 ![alt yy](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-11%2013-56-15.png)
+# DAY 3
+
+-Introduced a programming platform named as Blockly
