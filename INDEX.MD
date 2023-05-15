@@ -32,3 +32,15 @@
 # DAY 4
 ![alt hh](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-15%2014-30-21.png)
 
+const int potpin = A0;
+
+void setup() {
+  Serial.begin(9600);
+}
+
+void loop() {
+  int potValue = analogRead(potpin);
+  Serial.println(potValue);
+  delay(100);
+}
+
