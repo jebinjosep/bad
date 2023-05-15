@@ -27,3 +27,4 @@
 - The blockly helps to know about the programming easly
 - To create a multifunction program like a calculator 
 ![alt gg](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-12%2012-21-17.png)
+- AI & ML
