@@ -6,14 +6,14 @@
  
  
 ## DAY 1(09-05-2023)
-# TINKER CADE
+# TINKER CADEhttps://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-15%2014-30-21.png
 - CREATED ACCOUNT
 - LED GLOWED USING BATTERY SIMULATION MADE
 ![alt bad](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-09%2012-08-54.png)
 # DAY 2
 - AND GATE VERIFICATION SIMULATION
 ![alt hii](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-11%2010-47-47.png)
-> ARDUINO INTERFACTING
+> ARDUINO INTERFACTINGhttps://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-15%2014-30-21.png
 - LED BLINKING USING ARDUINO USING CODE AND SIMULATION MADE
 ![alt smm](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-11%2013-58-43.png)
 ![alt hii](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-11%2013-58-53.png)
@@ -29,3 +29,6 @@
 ![alt gg](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-12%2012-21-17.png)
 - AI & ML
 > STM 32 NUCLEO DEVELOPMENT BOARD ![IMAGE]
+# DAY 4
+![alt hh](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-15%2014-30-21.png)
+
