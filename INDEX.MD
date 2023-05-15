@@ -20,4 +20,5 @@
 ![alt yy](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-11%2013-56-15.png)
 # DAY 3
 - Introduced a programming platform named as blocky
+> introduction to AL & ML
 ![blocky](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-12%2010-34-11.png)
