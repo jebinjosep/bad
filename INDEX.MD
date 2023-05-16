@@ -30,8 +30,8 @@
 - AI & ML
 > STM 32 NUCLEO DEVELOPMENT BOARD ![IMAGE]
 # DAY 4
-
 ![alt hh](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-15%2014-30-21.png)
  # DAY 5
+ - copy of arduino 7 segment display
  ![alt gg](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-16%2009-15-07.png)
 
