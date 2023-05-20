@@ -207,3 +207,238 @@ void loop(void)
   nine();
   delay(1000);
 }
+
+# day-6
+- 3d printer
+- parts of 3d printer
+- working of printer
+- created 3d block in tinker cade
+![alt img](https://github.com/kumarkrishna2003/10-days-internship/blob/main/img/Screenshot%20from%202023-05-18%2009-17-31.png)
+![alt img](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-18%2009-18-10.png)
+# day-7
+- lab visiting
+- electrical lab
+- electronic lab
+- robotic introduction# day-6
+- 3d printer
+- parts of 3d printer
+- working of printer
+- created 3d block in tinker cade
+![alt img](https://github.com/kumarkrishna2003/10-days-internship/blob/main/img/Screenshot%20from%202023-05-18%2009-17-31.png)
+![alt img](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-18%2009-18-10.png)
+# day-7
+- lab visiting
+- electrical lab
+- electronic lab
+- robotic introduction
+- types of robot
+- working of robot
+- controling of robot
+# day -8
+> arduino analog inferencing speed caontrolled by pot
+```// C++ code
+const int potPin = A0;
+
+void setup()
+{
+  Serial.begin(9600);
+  pinMode(13, OUTPUT);
+  pinMode(12,OUTPUT);
+  pinMode(11,OUTPUT);
+  pinMode(10,OUTPUT);
+  pinMode(9,OUTPUT);
+  pinMode(8,OUTPUT);
+  pinMode(7,OUTPUT);
+}
+
+void loop()
+{
+  int potValue = analogRead(potPin);
+  Serial.println(potValue);
+  digitalWrite(13, LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(9,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(7,HIGH);
+  delay(potValue);// Wait for 1000 millisecond(s
+  digitalWrite(11,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(10,HIGH);
+  digitalWrite(13,HIGH);
+  digitalWrite(9,HIGH);
+  digitalWrite(8,HIGH);
+  digitalWrite(7,HIGH);
+  delay(potValue);;
+  digitalWrite(13,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(9,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(8,HIGH);
+  digitalWrite(11,HIGH);
+  delay(potValue);
+  digitalWrite(13,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(9,HIGH);
+  digitalWrite(8,HIGH);
+  delay(potValue);https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-18%2011-01-06.png
+  digitalWrite(8,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(13,HIGH);
+  digitalWrite(9,HIGH);
+  digitalWrite(10,HIGH);
+  delay(potValue);
+  digitalWrite(13,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(9,HIGH);
+  digitalWrite(12,HIGH);
+  delay(potValue);
+  digitalWrite(13,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(9,LOW);
+  digitalWrite(12,HIGH);
+  delay(potValue);
+  digitalWrite(13,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,HIGH);
+  digitalWrite(9,HIGH);
+  digitalWrite(8,HIGH);
+  digitalWrite(7,HIGH);
+  delay(potValue);
+  digitalWrite(13,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(9,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(7,LOW);
+  delay(potValue);
+  digitalWrite(10,HIGH);
+  digitalWrite(9,HIGH);
+  delay(potValue);
+  
+  delay(potValue); // Wait for 1000 millisecond(s)
+}
+```
+![alt a1](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-18%2011-01-06.png)
+[thinker this](https://www.tinkercad.com/things/94q0g4u18ho-speed-control-using-pot)
+
+- types of robot
+- working of robot
+- controling of robot
+# day -8
+> arduino analog inferencing speed caontrolled by pot
+```// C++ code
+const int potPin = A0;
+
+void setup()
+{
+  Serial.begin(9600);
+  pinMode(13, OUTPUT);
+  pinMode(12,OUTPUT);
+  pinMode(11,OUTPUT);
+  pinMode(10,OUTPUT);
+  pinMode(9,OUTPUT);
+  pinMode(8,OUTPUT);
+  pinMode(7,OUTPUT);
+}
+
+void loop()
+{
+  int potValue = analogRead(potPin);
+  Serial.println(potValue);
+  digitalWrite(13, LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(9,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(7,HIGH);
+  delay(potValue);// Wait for 1000 millisecond(s
+  digitalWrite(11,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(10,HIGH);
+  digitalWrite(13,HIGH);
+  digitalWrite(9,HIGH);
+  digitalWrite(8,HIGH);
+  digitalWrite(7,HIGH);
+  delay(potValue);;
+  digitalWrite(13,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(9,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(8,HIGH);
+  digitalWrite(11,HIGH);
+  delay(potValue);
+  digitalWrite(13,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(9,HIGH);
+  digitalWrite(8,HIGH);
+  delay(potValue);https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-18%2011-01-06.png
+  digitalWrite(8,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(13,HIGH);
+  digitalWrite(9,HIGH);
+  digitalWrite(10,HIGH);
+  delay(potValue);
+  digitalWrite(13,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(9,HIGH);
+  digitalWrite(12,HIGH);
+  delay(potValue);
+  digitalWrite(13,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(9,LOW);
+  digitalWrite(12,HIGH);
+  delay(potValue);
+  digitalWrite(13,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,HIGH);
+  digitalWrite(9,HIGH);
+  digitalWrite(8,HIGH);
+  digitalWrite(7,HIGH);
+  delay(potValue);
+  digitalWrite(13,LOW);
+  digitalWrite(12,LOW);
+  digitalWrite(11,LOW);
+  digitalWrite(10,LOW);
+  digitalWrite(9,LOW);
+  digitalWrite(8,LOW);
+  digitalWrite(7,LOW);
+  delay(potValue);
+  digitalWrite(10,HIGH);
+  digitalWrite(9,HIGH);
+  delay(potValue);
+  
+  delay(potValue); // Wait for 1000 millisecond(s)
+}
+```
+![alt a1](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-18%2011-01-06.png)
+[thinker this](https://www.tinkercad.com/things/94q0g4u18ho-speed-control-using-pot)
