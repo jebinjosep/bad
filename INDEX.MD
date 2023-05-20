@@ -451,6 +451,8 @@ void loop()
 
 # day-12
 ![image](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-20%2012-48-09.png)
+> Copy of Arduino DC Motor
+
 int inches = 0;
 
 int cm = 0;
