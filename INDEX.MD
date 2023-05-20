@@ -30,6 +30,10 @@
 - AI & ML
 > STM 32 NUCLEO DEVELOPMENT BOARD ![IMAGE]
 # DAY 4
+- drone induction
+- parts of drone
+- different type of drone
+- arduino analog input using potential meter 
 ![alt hh](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-15%2014-30-21.png)
  # DAY 5
  > copy of arduino 7 segment display
