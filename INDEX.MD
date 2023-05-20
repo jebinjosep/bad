@@ -1,5 +1,5 @@
 [FIRSTDAY](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-09%2012-08-54.png)
-[SECONDAY](https://github.com/jebinjosep/bad/blob/main/bad)
+[SECONDAY](https://github.com/jebinjosep/bad/blob/main/bad)https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-20%2012-48-09.png
 [THIRDDAY](https://www.tinkercad.com/things/2sYzoTlYzfy-led-blink/editel)
 
 # 10 DAY INTERNSHIP FOR GOVT POLYTECHNIC, KUNNAMKULAM FROM 08-05-2023 to 08-05-2023 TO 20-05-2023
@@ -450,8 +450,8 @@ void loop()
 > Then introduced about the EV (electric vehicle)
 
 # day-12
-![image](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-20%2012-48-09.png)
 > Copy of Arduino DC Motor
+![image](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-20%2012-48-09.png)
 
 int inches = 0;
 
@@ -471,7 +471,7 @@ long readUltrasonicDistance(int triggerPin, int echoPin)https://github.com/jebin
   return pulseIn(echoPin, HIGH);
 }
 
-void setup()
+void setup()https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-20%2012-48-09.png
 {
   Serial.begin(9600);
 }
