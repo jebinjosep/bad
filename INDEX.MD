@@ -121,7 +121,7 @@ void four(void) {
 
 void five(void) {
   digitalWrite(A, HIGH);
-  digitalWrite(B, HIGH);
+  digitalWrite(B, HIGH);https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-20%2012-48-09.png
   digitalWrite(C, HIGH);
   digitalWrite(D, LOW);
   digitalWrite(E, LOW);
@@ -147,7 +147,7 @@ void seven(void) {
   digitalWrite(C, HIGH);
   digitalWrite(D, HIGH);
   digitalWrite(E, LOW);
-  digitalWrite(F, LOW);
+  digitalWrite(F, LOW);https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-20%2012-48-09.png
   digitalWrite(G, HIGH);
   digitalWrite(H, LOW);
 }
@@ -282,7 +282,7 @@ void loop()
   digitalWrite(13,LOW);
   digitalWrite(12,LOW);
   digitalWrite(11,LOW);
-  digitalWrite(10,LOW);
+  digitalWrite(10,LOW);https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-20%2012-48-09.png
   digitalWrite(7,LOW);
   digitalWrite(9,HIGH);
   digitalWrite(8,HIGH);
@@ -449,6 +449,7 @@ void loop()
 ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/hhh.jpeg)
 > Then introduced about the EV (electric vehicle)
 
+# day-12
 ![image](https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-20%2012-48-09.png)
 int inches = 0;
 
@@ -460,7 +461,7 @@ long readUltrasonicDistance(int triggerPin, int echoPin)https://github.com/jebin
   digitalWrite(triggerPin, LOW);
   delayMicroseconds(2);
   
-  digitalWrite(triggerPin, HIGH);
+  digitalWrite(triggerPin, HIGH);https://github.com/jebinjosep/bad/blob/main/Screenshot%20from%202023-05-20%2012-48-09.png
   delayMicroseconds(10);
   digitalWrite(triggerPin, LOW);
   pinMode(echoPin, INPUT);
