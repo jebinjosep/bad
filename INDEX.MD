@@ -226,7 +226,7 @@ void loop(void)
 - created 3d block in tinker cade
 ![alt img](https://github.com/kumarkrishna2003/10-days-internship/blob/main/img/Screenshot%20from%202023-05-18%2009-17-31.png)
 ![alt img](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-18%2009-18-10.png)
-# day-7
+# day-8
 - lab visiting
 - electrical lab
 - electronic lab
@@ -234,7 +234,7 @@ void loop(void)
 - types of robot
 - working of robot
 - controling of robot
-# day -8
+# day -9
 > arduino analog inferencing speed caontrolled by pot
 ```// C++ code
 const int potPin = A0;
@@ -340,7 +340,7 @@ void loop()
 - types of robot
 - working of robot
 - controling of robot
-# day -8
+# day -10
 > arduino analog inferencing speed caontrolled by pot
 ```// C++ code
 const int potPin = A0;
@@ -443,7 +443,7 @@ void loop()
 ![alt a1](https://github.com/kumarkrishna2003/10-days-internship/blob/main/Screenshot%20from%202023-05-18%2011-01-06.png)
 [thinker this](https://www.tinkercad.com/things/94q0g4u18ho-speed-control-using-pot)
 
-# Day-8
+# Day-11
 > Introduced the yaskawa arm robot
 1. The introduction of yaskawa AR1440 
 ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/hhh.jpeg)
